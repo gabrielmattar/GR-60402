@@ -10,7 +10,15 @@ https://github.com/oracle/graal/issues/10275
 | jdk-21.0.5                   | 2.05              | 1.63          | 3.08          |
 | graalvm-jdk-21.0.5+9.1       | 42.02             | 1.75          | 83.77         |
 | graalvm-jdk-23.0.1+11.1      | 28.72             | 1.74          | 87.31         |
-``` 
+```
+
+```
+jdk21
+GenerateSecretBenchmark.getSecretKey  avgt    2  1936.698          us/op
+
+graalvm21
+GenerateSecretBenchmark.getSecretKey  avgt    2  21633.419          us/op
+```
 
 **Describe GraalVM and your environment:**
 
