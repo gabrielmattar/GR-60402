@@ -1,0 +1,8 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8έε±Ϊ»2J$ffed7f43-b6ac-4378-98a3-b9ff0ac5fc3f
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(΅–¨όÿÿÿÿ8εε±Ϊ»2J$93a19940-2f83-4527-bd5f-35190ee151eb
+y
+java:S6437"6Revoke and change this password, as it is compromised.(ζ£ζ8θε±Ϊ»2J$cc82bc4e-20ce-4f82-8fc5-c8db98b209a2
+`
+java:S2053"Make this salt unpredictable.(ζ£ζ8κε±Ϊ»2J$3f1ef0a2-7615-48a0-9f6b-40d4a1c95574
